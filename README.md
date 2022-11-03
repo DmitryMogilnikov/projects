@@ -8,6 +8,6 @@
 + pdfplumber - для парсинга текста из документов формата PDF, 
 + gtts - для преобразования полученного текста.
 
-##[3. EDA for population in cities] (https://github.com/DmitryMogilnikov/projects/tree/master/EDA_population)
+## [3. EDA for population in cities](https://github.com/DmitryMogilnikov/projects/tree/master/EDA_population)
 Анализ датасета с фактической и прогнозной численностью населения в городах. 
 Исследование социально-экономических выводов и гипотез по дальнейшей работе с этими данными.
